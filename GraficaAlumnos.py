@@ -1,3 +1,5 @@
+#Elaboró: Eric León Olivares
+
 # Este programa lee un archivo Excel que contiene las calificaciones de los alumnos en varias materias,
 # y grafica dichas calificaciones para cada alumno, evitando que las etiquetas del eje X se encimen.
 
